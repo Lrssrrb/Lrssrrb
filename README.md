@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://elegant-gelato-09b161.netlify.app/](https://elegant-gelato-09b161.netlify.app/)
 
 - 📫 How to reach me **sisodiyarana7@gmail.com**
-- <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="this slowpoke moves" width="250" />
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/12lwFuxviOhXFvWb-RqRWOdoWC6iddQhc/edit?usp=sharing&ouid=109801025197916216037&rtpof=true&sd=true](https://docs.google.com/document/d/12lwFuxviOhXFvWb-RqRWOdoWC6iddQhc/edit?usp=sharing&ouid=109801025197916216037&rtpof=true&sd=true)
 
