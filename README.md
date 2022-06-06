@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luckiraj Sisodiya</h1>
-<h3 align="center">A passionate Fool stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 - <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="this slowpoke moves" width="250" />
 
 - 🔭 I’m currently working on **A Showping website**
