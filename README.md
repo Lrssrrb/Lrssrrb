@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://elegant-gelato-09b161.netlify.app/" rel="nofollow">netlify</a>
 
-- 📫 How to reach me <a href="**sisodiyarana7@gmail.com**" rel="nofollow">Gmail</a>
+- 📫 How to reach me <a href="https://mail.google.com/mail/u/1/?fs=1&to=sisodiyarana7@gmail.com&su=GITHUB&tf=cm" rel="nofollow">Gmail</a>
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/12lwFuxviOhXFvWb-RqRWOdoWC6iddQhc/edit?usp=sharing&ouid=109801025197916216037&rtpof=true&sd=true" rel="nofollow">certificates</a>
 
