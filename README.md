@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://elegant-gelato-09b161.netlify.app/](https://elegant-gelato-09b161.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://elegant-gelato-09b161.netlify.app/" rel="nofollow">netlify</a>
 
-- 📫 How to reach me **sisodiyarana7@gmail.com**
+- 📫 How to reach me <a href="**sisodiyarana7@gmail.com**" rel="nofollow">Gmail</a>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12lwFuxviOhXFvWb-RqRWOdoWC6iddQhc/edit?usp=sharing&ouid=109801025197916216037&rtpof=true&sd=true](https://docs.google.com/document/d/12lwFuxviOhXFvWb-RqRWOdoWC6iddQhc/edit?usp=sharing&ouid=109801025197916216037&rtpof=true&sd=true)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/12lwFuxviOhXFvWb-RqRWOdoWC6iddQhc/edit?usp=sharing&ouid=109801025197916216037&rtpof=true&sd=true" rel="nofollow">certificates</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
