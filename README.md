@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at <a href="https://elegant-gelato-09b161.netlify.app/" rel="nofollow">netlify</a>
+- 👨‍💻 All of my projects are available at <a href="https://luckiraj-sisodiya.netlify.app/" rel="nofollow">netlify</a>
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/u/1/?fs=1&to=sisodiyarana7@gmail.com&su=GITHUB&tf=cm" rel="nofollow">Gmail</a>
 
