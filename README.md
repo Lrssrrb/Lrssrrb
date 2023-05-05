@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luckiraj Sisodiya</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-- <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="this slowpoke moves" width="250" />
-
+<div>
+    <div style="display: flex;">
+ <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="this slowpoke moves" width="250" />
+ <a href="" style="width: 20px;">--------</a>
+<img src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif" alt="this slowpoke moves" width="250" height="190" />
+</div>
+<div>
+  
 - 🔭 I’m currently working on **FinTech Project**
 
 - 🌱 ussing **Spring Boot** and **JAVA 11**
