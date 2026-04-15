@@ -43,4 +43,4 @@ Designed an extensible **plug-and-play architecture (strategy-based design)** to
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Lrssrrb&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lrssrrb&show_icons=true&theme=tokyonight)
