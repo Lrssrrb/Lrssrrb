@@ -1,43 +1,47 @@
 <h1 align="center">Hi 👋, I'm Luckiraj Sisodiya</h1>
-<h3 align="center">Backend Engineer | Java | Spring Boot | Kafka | Redis</h3>
+<h3 align="center">Backend Java Developer | Java 17 • Spring Boot • Apache Kafka • Redis</h3>
+
+<p align="center">
+  <a href="https://lrssrrb.github.io/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/luckiraj-sisodiya-4783a520b/">💼 LinkedIn</a> •
+  <a href="mailto:luckiraj.sisodiya@gmail.com">📧 Email</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Backend Engineer with 2+ years of experience building scalable microservices and integration platforms.
+Backend Java Developer with **3+ years of experience** architecting scalable microservices, middleware platforms, and high-throughput event-driven systems.
 
-Currently working on a **large-scale, high-throughput integration platform** in the fintech domain, enabling seamless onboarding and management of multiple third-party integrations.
-
-I design and build backend systems that handle **high-volume communication for 3 lakh+ users** across channels like SMS, email, payment systems, and tracking services.
-
-Designed an extensible **plug-and-play architecture (strategy-based design)** to support multiple vendors through a unified service, enabling new integrations to be added with minimal changes to existing codebase.
+- Architected a **communication & integration middleware platform** integrating **9+ third-party vendor APIs** (payment, credit, SMS, email, and tracking workflows) serving **300K+ (3L+) users per API call**.
+- Designed an extensible **plug-and-play (strategy-based) integration architecture** alongside idempotent webhook handling and deduplication keys so new vendors onboard with minimal codebase changes.
+- Reduced redundant external API calls by **40%–90%** through caching, retry/fallback mechanisms, MySQL synchronization, indexed lookups, and scheduler locking.
+- **Open to immediate backend engineering opportunities** (Java / Spring Boot / Microservices / Distributed Systems).
 
 ---
 
 ## ⚡ Core Expertise
 
-- Async Processing & Thread Pool Execution  
-- Event-Driven Architecture (Kafka)  
-- Redis Caching & Performance Optimization  
-- Distributed Tracing (Correlation IDs)  
-- High-Throughput Distributed Systems  
+- **Event-Driven & Async Processing:** Apache Kafka, Async Batching, Thread Pool Execution
+- **API & Webhook Engineering:** REST / OpenAPI (Swagger), Idempotent Webhooks, Strategy-Based Vendor Integrations
+- **Performance & Reliability:** Caching, Fault Tolerance (Retry & Fallback), Scheduler Locking, SQL Optimization
+- **Observability & Testing:** Distributed Tracing (`X-Correlation-Id`), Structured Audit Logging, JUnit & Mockito
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language:** Java  
-- **Framework:** Spring Boot, Microservices  
-- **Technologies:** Kafka, Redis, AWS (S3)  
-- **Database:** MySQL  
+- **Languages:** Java 17, Groovy (4–5), React 19, Python 3, SQL, HTML5/CSS3
+- **Frameworks & Testing:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JUnit, Mockito
+- **Messaging & Databases:** Apache Kafka, Redis, MySQL
+- **Tools & Practices:** Microservices, REST/OpenAPI, Git, Maven, Postman, Bruno
 
 ---
 
-## 📫 Connect with me
+## 📌 Featured Repositories
 
-- LinkedIn: https://www.linkedin.com/in/luckiraj-sisodiya  
-- Email: luckiraj.sisodiya@gmail.com  
+- **[Online Shopping Application (REST API)](https://github.com/Lrssrrb/Online-shopping-application)** — Layered Java 17 & Spring Boot e-commerce backend with session-based authentication, 7 REST controllers, global exception handling, and MySQL/JPA persistence.
+- **[Blog Microservices Architecture (`blog-micro`)](https://github.com/Lrssrrb/blog-micro)** — Distributed 6-service Spring Cloud platform featuring Eureka Service Discovery, Spring Cloud API Gateway, and decoupled domain microservices.
 
 ---
 
