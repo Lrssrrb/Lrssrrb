@@ -40,8 +40,10 @@ Backend Java Developer with **3+ years of experience** architecting scalable mic
 
 ## 📌 Featured Repositories
 
-- **[Online Shopping Application (REST API)](https://github.com/Lrssrrb/Online-shopping-application)** — Layered Java 17 & Spring Boot e-commerce backend with session-based authentication, 7 REST controllers, global exception handling, and MySQL/JPA persistence.
-- **[Blog Microservices Architecture (`blog-micro`)](https://github.com/Lrssrrb/blog-micro)** — Distributed 6-service Spring Cloud platform featuring Eureka Service Discovery, Spring Cloud API Gateway, and decoupled domain microservices.
+- **[Blog Microservices Architecture (`blog-micro`)](https://github.com/Lrssrrb/blog-micro)** — Distributed 6-service Spring Cloud platform featuring Eureka Service Discovery, Spring Cloud API Gateway, and 4 decoupled domain microservices (`User`, `Post`, `Category`, `Comment`).
+- **[Secure Blogging Platform REST API (`blogApp`)](https://github.com/Lrssrrb/blogApp)** — Production-structured Spring Boot REST API secured with Spring Security and stateless JWT authentication, role-based admin controls, DTO validation, pagination, and MySQL persistence.
+- **[Banking & Account Microservices System (`BankAccountUserNoSecurity`)](https://github.com/Lrssrrb/BankAccountUserNoSecurity)** — Multi-module Spring Boot microservices platform separating `Account`, `Bank`, and `User` domains with dedicated `Server` registry and `Connection` configuration modules.
+- **[Online Shopping Application (`Online-shopping-application`)](https://github.com/Lrssrrb/Online-shopping-application)** — Layered Java 17 & Spring Boot e-commerce REST backend with session-based authentication, 7 domain controllers, centralized exception handling, and Spring Data JPA/MySQL persistence.
 
 ---
 
